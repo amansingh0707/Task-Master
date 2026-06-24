@@ -1,6 +1,3 @@
-# Task-Master
-This is a Task Management System
-=======
 # Task Master - Complete Task Management System
 
 A modern, full-stack task management application built with React, Node.js, Express, and MongoDB.
