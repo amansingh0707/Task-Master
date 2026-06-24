@@ -264,12 +264,3 @@ This is a personal project created for task management purposes. Feel free to fo
 ## License
 
 ISC
-
-## Author
-
-Created with ❤️ using modern web technologies
-
----
-
-**Note:** Make sure to update your MongoDB connection string in the `.env` file before running the application.
->>>>>>> d07046e (Added project files)
